@@ -1,0 +1,17 @@
+google-genai
+pandas
+spacy
+dotenv
+scikit-learn
+textstat
+umap-learn
+matplotlib
+seaborn
+xgboost
+torch
+transformers
+datasets
+evaluate
+tqdm
+peft
+captum
